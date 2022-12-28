@@ -36,16 +36,6 @@ public class program_tumpukan
 
 	public static void main (String[] args)
 	{	String tumpukan[] = new String[10];
-PUSH (tumpukan, "Buku A");
-PUSH(tumpukan, "Buku B");
-PUSH (tumpukan, "Buku C");
-PUSH (tumpukan, "Buku D");
-lihatTumpukan(tumpukan);
-System.out.println("POP: " + POP(tumpukan));
-System.out.println("POP: " + POP(tumpukan));
-System.out.println("POP: " + POP(tumpukan));
-System.out.println("POP: " + POP(tumpukan));
-lihatTumpukan(tumpukan);
 
 	}
 }
